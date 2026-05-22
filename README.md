@@ -76,9 +76,10 @@ For project inquiries, partnerships, or technical consultations, feel free to re
 <p align="center">
   <sub>&copy; 2023 - 2026 Cave Web Solutions. All rights reserved.</sub>
 </p>
+<p>
 *   **Database Administration:** Designing optimized relational (SQL) and non-relational (NoSQL) database schemas for speed and data integrity.
 *   **Performance Optimization:** Auditing codebases to reduce load times, optimize server resource consumption, and maximize core web vitals.
-
+</p>
 ---
 
 ## Organization Guidelines
