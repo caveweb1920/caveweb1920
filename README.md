@@ -155,7 +155,3 @@ For project inquiries, partnerships, or technical consultations, reach out throu
 </p>    <img src="https://img.shields.io/badge/GitHub-caveweb1920-181717?style=flat&logo=github&logoColor=white" alt="GitHub Profile">
   </a>
 </p>
-
-<p align="center">
-  <sub>&copy; 2023 - 2026 Cave Web Solutions. All rights reserved.</sub>
-</p>
